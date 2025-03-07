@@ -1,0 +1,36 @@
+# C# / .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.nuget
+*.log
+*.user
+*.suo
+*.cache
+*.config
+*.csproj.user
+*.db
+*.db-journal
+*.nupkg
+
+# Rider / Visual Studio Code / VS
+.vscode/
+.idea/
+*.sln.dotsettings
+*.sln.cache
+
+# Node.js / Remix
+node_modules/
+/.next/
+/.turbo/
+/build/
+/.cache/
+dist/
+.env*
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
